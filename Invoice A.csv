@@ -1,0 +1,21 @@
+Description,Quantity,Price,Total 
+Laptop,2,$800," $ 1,600.00 "
+Smartphone,5,$400," $ 2,000.00 "
+Tablet,3,$300, $ 900.00 
+Desktop PC,1,"$1,200"," $ 1,200.00 "
+Printer,2,$150, $ 300.00 
+External HDD,4,$100, $ 400.00 
+Monitor,3,$250, $ 750.00 
+Keyboard,5,$50, $ 250.00 
+Mouse,5,$30, $ 150.00 
+Headphones,2,$80, $ 160.00 
+Webcam,1,$60, $ 60.00 
+Speaker System,1,$150, $ 150.00 
+Graphics Card,2,$500," $ 1,000.00 "
+Router,1,$80, $ 80.00 
+SSD,3,$120, $ 360.00 
+RAM,4,$70, $ 280.00 
+Microphone,2,$40, $ 80.00 
+Smartwatch,1,$200, $ 200.00 
+Gaming Console,1,$300, $ 300.00 
+Camera,1,$600,
